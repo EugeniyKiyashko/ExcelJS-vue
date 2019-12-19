@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: "devextreme-vue-template"
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/ExcelJS-vue/'
+    : '/'
 };

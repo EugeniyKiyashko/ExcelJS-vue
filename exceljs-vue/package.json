@@ -16,7 +16,7 @@
     "devextreme-vue": "19.2-stable",
     "exceljs": "^3.5.0",
     "file-saver": "^2.0.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.1"
   },
